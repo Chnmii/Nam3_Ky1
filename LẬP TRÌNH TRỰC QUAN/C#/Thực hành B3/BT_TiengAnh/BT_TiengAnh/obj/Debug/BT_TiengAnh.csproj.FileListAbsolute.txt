@@ -1,0 +1,24 @@
+D:\Visual Studio Code\C#\BT_TiengAnh\BT_TiengAnh\obj\Debug\BT_TiengAnh.csproj.AssemblyReference.cache
+D:\Visual Studio Code\C#\BT_TiengAnh\BT_TiengAnh\obj\Debug\BT_TiengAnh.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Code\C#\BT_TiengAnh\BT_TiengAnh\obj\Debug\BT_TiengAnh.frmDienTu.resources
+D:\Visual Studio Code\C#\BT_TiengAnh\BT_TiengAnh\obj\Debug\BT_TiengAnh.frmMain.resources
+D:\Visual Studio Code\C#\BT_TiengAnh\BT_TiengAnh\obj\Debug\BT_TiengAnh.Properties.Resources.resources
+D:\Visual Studio Code\C#\BT_TiengAnh\BT_TiengAnh\obj\Debug\BT_TiengAnh.csproj.GenerateResource.cache
+D:\Visual Studio Code\C#\BT_TiengAnh\BT_TiengAnh\obj\Debug\BT_TiengAnh.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\C#\BT_TiengAnh\BT_TiengAnh\bin\Debug\BT_TiengAnh.exe.config
+D:\Visual Studio Code\C#\BT_TiengAnh\BT_TiengAnh\bin\Debug\BT_TiengAnh.exe
+D:\Visual Studio Code\C#\BT_TiengAnh\BT_TiengAnh\bin\Debug\BT_TiengAnh.pdb
+D:\Visual Studio Code\C#\BT_TiengAnh\BT_TiengAnh\obj\Debug\BT_TiengAnh.exe
+D:\Visual Studio Code\C#\BT_TiengAnh\BT_TiengAnh\obj\Debug\BT_TiengAnh.pdb
+D:\Visual Studio Code\C#\Thực hành B3\BT_TiengAnh\BT_TiengAnh\bin\Debug\BT_TiengAnh.exe.config
+D:\Visual Studio Code\C#\Thực hành B3\BT_TiengAnh\BT_TiengAnh\bin\Debug\BT_TiengAnh.exe
+D:\Visual Studio Code\C#\Thực hành B3\BT_TiengAnh\BT_TiengAnh\bin\Debug\BT_TiengAnh.pdb
+D:\Visual Studio Code\C#\Thực hành B3\BT_TiengAnh\BT_TiengAnh\obj\Debug\BT_TiengAnh.csproj.AssemblyReference.cache
+D:\Visual Studio Code\C#\Thực hành B3\BT_TiengAnh\BT_TiengAnh\obj\Debug\BT_TiengAnh.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Code\C#\Thực hành B3\BT_TiengAnh\BT_TiengAnh\obj\Debug\BT_TiengAnh.frmDienTu.resources
+D:\Visual Studio Code\C#\Thực hành B3\BT_TiengAnh\BT_TiengAnh\obj\Debug\BT_TiengAnh.frmMain.resources
+D:\Visual Studio Code\C#\Thực hành B3\BT_TiengAnh\BT_TiengAnh\obj\Debug\BT_TiengAnh.Properties.Resources.resources
+D:\Visual Studio Code\C#\Thực hành B3\BT_TiengAnh\BT_TiengAnh\obj\Debug\BT_TiengAnh.csproj.GenerateResource.cache
+D:\Visual Studio Code\C#\Thực hành B3\BT_TiengAnh\BT_TiengAnh\obj\Debug\BT_TiengAnh.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\C#\Thực hành B3\BT_TiengAnh\BT_TiengAnh\obj\Debug\BT_TiengAnh.exe
+D:\Visual Studio Code\C#\Thực hành B3\BT_TiengAnh\BT_TiengAnh\obj\Debug\BT_TiengAnh.pdb

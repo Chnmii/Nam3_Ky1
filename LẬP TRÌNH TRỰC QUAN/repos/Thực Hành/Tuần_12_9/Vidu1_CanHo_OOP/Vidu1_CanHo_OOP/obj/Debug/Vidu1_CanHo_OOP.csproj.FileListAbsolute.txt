@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\Vidu1_CanHo_OOP\Vidu1_CanHo_OOP\bin\Debug\Vidu1_CanHo_OOP.exe.config
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\Vidu1_CanHo_OOP\Vidu1_CanHo_OOP\bin\Debug\Vidu1_CanHo_OOP.exe
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\Vidu1_CanHo_OOP\Vidu1_CanHo_OOP\bin\Debug\Vidu1_CanHo_OOP.pdb
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\Vidu1_CanHo_OOP\Vidu1_CanHo_OOP\obj\Debug\Vidu1_CanHo_OOP.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\Vidu1_CanHo_OOP\Vidu1_CanHo_OOP\obj\Debug\Vidu1_CanHo_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\Vidu1_CanHo_OOP\Vidu1_CanHo_OOP\obj\Debug\Vidu1_CanHo_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\Vidu1_CanHo_OOP\Vidu1_CanHo_OOP\obj\Debug\Vidu1_CanHo_OOP.exe
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\Vidu1_CanHo_OOP\Vidu1_CanHo_OOP\obj\Debug\Vidu1_CanHo_OOP.pdb

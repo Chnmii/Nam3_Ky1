@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\BT2\BT2\obj\Debug\BT2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BT2\BT2\obj\Debug\BT2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\BT2\BT2\obj\Debug\BT2.Form1.resources
+C:\Users\Admin\source\repos\BT2\BT2\obj\Debug\BT2.Properties.Resources.resources
+C:\Users\Admin\source\repos\BT2\BT2\obj\Debug\BT2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BT2\BT2\obj\Debug\BT2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BT2\BT2\bin\Debug\BT2.exe.config
+C:\Users\Admin\source\repos\BT2\BT2\bin\Debug\BT2.exe
+C:\Users\Admin\source\repos\BT2\BT2\bin\Debug\BT2.pdb
+C:\Users\Admin\source\repos\BT2\BT2\obj\Debug\BT2.exe
+C:\Users\Admin\source\repos\BT2\BT2\obj\Debug\BT2.pdb

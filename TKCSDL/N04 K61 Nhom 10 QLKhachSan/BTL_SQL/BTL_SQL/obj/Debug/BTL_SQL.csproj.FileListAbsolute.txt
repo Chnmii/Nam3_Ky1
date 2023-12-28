@@ -1,0 +1,44 @@
+C:\Users\Admin\Documents\Nam_3\ky_1\TKCSDL\BTL_SQL\BTL_SQL\bin\Debug\BTL_SQL.exe.config
+C:\Users\Admin\Documents\Nam_3\ky_1\TKCSDL\BTL_SQL\BTL_SQL\bin\Debug\BTL_SQL.exe
+C:\Users\Admin\Documents\Nam_3\ky_1\TKCSDL\BTL_SQL\BTL_SQL\bin\Debug\BTL_SQL.pdb
+C:\Users\Admin\Documents\Nam_3\ky_1\TKCSDL\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Nam_3\ky_1\TKCSDL\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Nam_3\ky_1\TKCSDL\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.Form1.resources
+C:\Users\Admin\Documents\Nam_3\ky_1\TKCSDL\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.Properties.Resources.resources
+C:\Users\Admin\Documents\Nam_3\ky_1\TKCSDL\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Nam_3\ky_1\TKCSDL\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Nam_3\ky_1\TKCSDL\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.exe
+C:\Users\Admin\Documents\Nam_3\ky_1\TKCSDL\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.pdb
+C:\Users\bmont\Desktop\BTL_SQL\BTL_SQL\bin\Debug\BTL_SQL.exe.config
+C:\Users\bmont\Desktop\BTL_SQL\BTL_SQL\bin\Debug\BTL_SQL.exe
+C:\Users\bmont\Desktop\BTL_SQL\BTL_SQL\bin\Debug\BTL_SQL.pdb
+C:\Users\bmont\Desktop\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.csproj.AssemblyReference.cache
+C:\Users\bmont\Desktop\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\bmont\Desktop\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.Form1.resources
+C:\Users\bmont\Desktop\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.Properties.Resources.resources
+C:\Users\bmont\Desktop\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.csproj.GenerateResource.cache
+C:\Users\bmont\Desktop\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.csproj.CoreCompileInputs.cache
+C:\Users\bmont\Desktop\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.exe
+C:\Users\bmont\Desktop\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.pdb
+C:\Users\Admin\Downloads\N04 K61 Nhom 10 QLKhachSan\BTL_SQL\BTL_SQL\bin\Debug\BTL_SQL.exe.config
+C:\Users\Admin\Downloads\N04 K61 Nhom 10 QLKhachSan\BTL_SQL\BTL_SQL\bin\Debug\BTL_SQL.exe
+C:\Users\Admin\Downloads\N04 K61 Nhom 10 QLKhachSan\BTL_SQL\BTL_SQL\bin\Debug\BTL_SQL.pdb
+C:\Users\Admin\Downloads\N04 K61 Nhom 10 QLKhachSan\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\N04 K61 Nhom 10 QLKhachSan\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\N04 K61 Nhom 10 QLKhachSan\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.Form1.resources
+C:\Users\Admin\Downloads\N04 K61 Nhom 10 QLKhachSan\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.Properties.Resources.resources
+C:\Users\Admin\Downloads\N04 K61 Nhom 10 QLKhachSan\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\N04 K61 Nhom 10 QLKhachSan\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\N04 K61 Nhom 10 QLKhachSan\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.exe
+C:\Users\Admin\Downloads\N04 K61 Nhom 10 QLKhachSan\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.pdb
+C:\Users\Admin\Downloads\TKCSDL\N04 K61 Nhom 10 QLKhachSan\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\TKCSDL\N04 K61 Nhom 10 QLKhachSan\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\TKCSDL\N04 K61 Nhom 10 QLKhachSan\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.Form1.resources
+C:\Users\Admin\Downloads\TKCSDL\N04 K61 Nhom 10 QLKhachSan\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.Properties.Resources.resources
+C:\Users\Admin\Downloads\TKCSDL\N04 K61 Nhom 10 QLKhachSan\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\TKCSDL\N04 K61 Nhom 10 QLKhachSan\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\TKCSDL\N04 K61 Nhom 10 QLKhachSan\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.exe
+C:\Users\Admin\Downloads\TKCSDL\N04 K61 Nhom 10 QLKhachSan\BTL_SQL\BTL_SQL\obj\Debug\BTL_SQL.pdb
+C:\Users\Admin\Downloads\TKCSDL\N04 K61 Nhom 10 QLKhachSan\BTL_SQL\BTL_SQL\bin\Debug\BTL_SQL.exe.config
+C:\Users\Admin\Downloads\TKCSDL\N04 K61 Nhom 10 QLKhachSan\BTL_SQL\BTL_SQL\bin\Debug\BTL_SQL.exe
+C:\Users\Admin\Downloads\TKCSDL\N04 K61 Nhom 10 QLKhachSan\BTL_SQL\BTL_SQL\bin\Debug\BTL_SQL.pdb

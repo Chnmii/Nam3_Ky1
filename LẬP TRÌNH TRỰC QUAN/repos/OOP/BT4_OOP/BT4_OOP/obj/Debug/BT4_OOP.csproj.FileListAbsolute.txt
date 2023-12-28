@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\OOP\BT4_OOP\BT4_OOP\bin\Debug\BT4_OOP.exe.config
+C:\Users\Admin\source\repos\OOP\BT4_OOP\BT4_OOP\bin\Debug\BT4_OOP.exe
+C:\Users\Admin\source\repos\OOP\BT4_OOP\BT4_OOP\bin\Debug\BT4_OOP.pdb
+C:\Users\Admin\source\repos\OOP\BT4_OOP\BT4_OOP\obj\Debug\BT4_OOP.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\OOP\BT4_OOP\BT4_OOP\obj\Debug\BT4_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\OOP\BT4_OOP\BT4_OOP\obj\Debug\BT4_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOP\BT4_OOP\BT4_OOP\obj\Debug\BT4_OOP.exe
+C:\Users\Admin\source\repos\OOP\BT4_OOP\BT4_OOP\obj\Debug\BT4_OOP.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Fistprogram\Fistprogram\obj\Debug\Fistprogram.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Fistprogram\Fistprogram\obj\Debug\Fistprogram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Fistprogram\Fistprogram\obj\Debug\Fistprogram.Form1.resources
+C:\Users\Admin\source\repos\Fistprogram\Fistprogram\obj\Debug\Fistprogram.Properties.Resources.resources
+C:\Users\Admin\source\repos\Fistprogram\Fistprogram\obj\Debug\Fistprogram.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Fistprogram\Fistprogram\obj\Debug\Fistprogram.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Fistprogram\Fistprogram\bin\Debug\Fistprogram.exe.config
+C:\Users\Admin\source\repos\Fistprogram\Fistprogram\bin\Debug\Fistprogram.exe
+C:\Users\Admin\source\repos\Fistprogram\Fistprogram\bin\Debug\Fistprogram.pdb
+C:\Users\Admin\source\repos\Fistprogram\Fistprogram\obj\Debug\Fistprogram.exe
+C:\Users\Admin\source\repos\Fistprogram\Fistprogram\obj\Debug\Fistprogram.pdb

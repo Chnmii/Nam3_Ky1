@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\TH01_VD2\TH01_VD2\bin\Debug\TH01_VD2.exe.config
+C:\Users\Admin\source\repos\TH01_VD2\TH01_VD2\bin\Debug\TH01_VD2.exe
+C:\Users\Admin\source\repos\TH01_VD2\TH01_VD2\bin\Debug\TH01_VD2.pdb
+C:\Users\Admin\source\repos\TH01_VD2\TH01_VD2\obj\Debug\TH01_VD2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TH01_VD2\TH01_VD2\obj\Debug\TH01_VD2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\TH01_VD2\TH01_VD2\obj\Debug\TH01_VD2.Form1.resources
+C:\Users\Admin\source\repos\TH01_VD2\TH01_VD2\obj\Debug\TH01_VD2.Properties.Resources.resources
+C:\Users\Admin\source\repos\TH01_VD2\TH01_VD2\obj\Debug\TH01_VD2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\TH01_VD2\TH01_VD2\obj\Debug\TH01_VD2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TH01_VD2\TH01_VD2\obj\Debug\TH01_VD2.exe
+C:\Users\Admin\source\repos\TH01_VD2\TH01_VD2\obj\Debug\TH01_VD2.pdb

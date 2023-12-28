@@ -1,0 +1,12 @@
+D:\Visual Studio Code\C#\Form_KhachHang\Form_KhachHang\bin\Debug\Form_KhachHang.exe.config
+D:\Visual Studio Code\C#\Form_KhachHang\Form_KhachHang\bin\Debug\Form_KhachHang.exe
+D:\Visual Studio Code\C#\Form_KhachHang\Form_KhachHang\bin\Debug\Form_KhachHang.pdb
+D:\Visual Studio Code\C#\Form_KhachHang\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.AssemblyReference.cache
+D:\Visual Studio Code\C#\Form_KhachHang\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Code\C#\Form_KhachHang\Form_KhachHang\obj\Debug\Form_KhachHang.Form1.resources
+D:\Visual Studio Code\C#\Form_KhachHang\Form_KhachHang\obj\Debug\Form_KhachHang.Properties.Resources.resources
+D:\Visual Studio Code\C#\Form_KhachHang\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.GenerateResource.cache
+D:\Visual Studio Code\C#\Form_KhachHang\Form_KhachHang\obj\Debug\Form_KhachHang.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\C#\Form_KhachHang\Form_KhachHang\obj\Debug\Form_KhachHang.exe
+D:\Visual Studio Code\C#\Form_KhachHang\Form_KhachHang\obj\Debug\Form_KhachHang.pdb
+D:\Visual Studio Code\C#\Form_KhachHang\Form_KhachHang\obj\Debug\Form_KhachHang.Form2.resources

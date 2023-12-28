@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_1_0_lop_thi_sinh\btn_1_0_lop_thi_sinh\bin\Debug\btn_1_0_lop_thi_sinh.exe.config
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_1_0_lop_thi_sinh\btn_1_0_lop_thi_sinh\bin\Debug\btn_1_0_lop_thi_sinh.exe
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_1_0_lop_thi_sinh\btn_1_0_lop_thi_sinh\bin\Debug\btn_1_0_lop_thi_sinh.pdb
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_1_0_lop_thi_sinh\btn_1_0_lop_thi_sinh\obj\Debug\btn_1_0_lop_thi_sinh.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_1_0_lop_thi_sinh\btn_1_0_lop_thi_sinh\obj\Debug\btn_1_0_lop_thi_sinh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_1_0_lop_thi_sinh\btn_1_0_lop_thi_sinh\obj\Debug\btn_1_0_lop_thi_sinh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_1_0_lop_thi_sinh\btn_1_0_lop_thi_sinh\obj\Debug\btn_1_0_lop_thi_sinh.exe
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_1_0_lop_thi_sinh\btn_1_0_lop_thi_sinh\obj\Debug\btn_1_0_lop_thi_sinh.pdb

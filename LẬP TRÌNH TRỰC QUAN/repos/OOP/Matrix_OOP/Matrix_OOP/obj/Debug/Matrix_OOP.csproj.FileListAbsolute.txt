@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\OOP\Matrix_OOP\Matrix_OOP\bin\Debug\Matrix_OOP.exe.config
+C:\Users\Admin\source\repos\OOP\Matrix_OOP\Matrix_OOP\bin\Debug\Matrix_OOP.exe
+C:\Users\Admin\source\repos\OOP\Matrix_OOP\Matrix_OOP\bin\Debug\Matrix_OOP.pdb
+C:\Users\Admin\source\repos\OOP\Matrix_OOP\Matrix_OOP\obj\Debug\Matrix_OOP.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\OOP\Matrix_OOP\Matrix_OOP\obj\Debug\Matrix_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\OOP\Matrix_OOP\Matrix_OOP\obj\Debug\Matrix_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOP\Matrix_OOP\Matrix_OOP\obj\Debug\Matrix_OOP.exe
+C:\Users\Admin\source\repos\OOP\Matrix_OOP\Matrix_OOP\obj\Debug\Matrix_OOP.pdb

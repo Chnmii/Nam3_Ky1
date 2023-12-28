@@ -1,0 +1,11 @@
+D:\Visual Studio Code\C#\Form_DatTour\Form_DatTour\bin\Debug\Form_DatTour.exe.config
+D:\Visual Studio Code\C#\Form_DatTour\Form_DatTour\bin\Debug\Form_DatTour.exe
+D:\Visual Studio Code\C#\Form_DatTour\Form_DatTour\bin\Debug\Form_DatTour.pdb
+D:\Visual Studio Code\C#\Form_DatTour\Form_DatTour\obj\Debug\Form_DatTour.csproj.AssemblyReference.cache
+D:\Visual Studio Code\C#\Form_DatTour\Form_DatTour\obj\Debug\Form_DatTour.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Code\C#\Form_DatTour\Form_DatTour\obj\Debug\Form_DatTour.Form1.resources
+D:\Visual Studio Code\C#\Form_DatTour\Form_DatTour\obj\Debug\Form_DatTour.Properties.Resources.resources
+D:\Visual Studio Code\C#\Form_DatTour\Form_DatTour\obj\Debug\Form_DatTour.csproj.GenerateResource.cache
+D:\Visual Studio Code\C#\Form_DatTour\Form_DatTour\obj\Debug\Form_DatTour.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\C#\Form_DatTour\Form_DatTour\obj\Debug\Form_DatTour.exe
+D:\Visual Studio Code\C#\Form_DatTour\Form_DatTour\obj\Debug\Form_DatTour.pdb

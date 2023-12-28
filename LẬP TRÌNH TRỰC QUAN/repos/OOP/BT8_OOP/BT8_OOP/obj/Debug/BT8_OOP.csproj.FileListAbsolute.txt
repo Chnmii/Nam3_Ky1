@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\OOP\BT8_OOP\BT8_OOP\bin\Debug\BT8_OOP.exe.config
+C:\Users\Admin\source\repos\OOP\BT8_OOP\BT8_OOP\bin\Debug\BT8_OOP.exe
+C:\Users\Admin\source\repos\OOP\BT8_OOP\BT8_OOP\bin\Debug\BT8_OOP.pdb
+C:\Users\Admin\source\repos\OOP\BT8_OOP\BT8_OOP\obj\Debug\BT8_OOP.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\OOP\BT8_OOP\BT8_OOP\obj\Debug\BT8_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\OOP\BT8_OOP\BT8_OOP\obj\Debug\BT8_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOP\BT8_OOP\BT8_OOP\obj\Debug\BT8_OOP.exe
+C:\Users\Admin\source\repos\OOP\BT8_OOP\BT8_OOP\obj\Debug\BT8_OOP.pdb

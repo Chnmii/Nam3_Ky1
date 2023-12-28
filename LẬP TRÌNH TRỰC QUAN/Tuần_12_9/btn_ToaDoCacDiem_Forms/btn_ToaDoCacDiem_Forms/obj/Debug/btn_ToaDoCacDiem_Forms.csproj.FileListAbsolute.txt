@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_ToaDoCacDiem_Forms\btn_ToaDoCacDiem_Forms\obj\Debug\btn_ToaDoCacDiem_Forms.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_ToaDoCacDiem_Forms\btn_ToaDoCacDiem_Forms\obj\Debug\btn_ToaDoCacDiem_Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_ToaDoCacDiem_Forms\btn_ToaDoCacDiem_Forms\obj\Debug\btn_ToaDoCacDiem_Forms.Form1.resources
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_ToaDoCacDiem_Forms\btn_ToaDoCacDiem_Forms\obj\Debug\btn_ToaDoCacDiem_Forms.Properties.Resources.resources
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_ToaDoCacDiem_Forms\btn_ToaDoCacDiem_Forms\obj\Debug\btn_ToaDoCacDiem_Forms.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_ToaDoCacDiem_Forms\btn_ToaDoCacDiem_Forms\obj\Debug\btn_ToaDoCacDiem_Forms.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_ToaDoCacDiem_Forms\btn_ToaDoCacDiem_Forms\bin\Debug\btn_ToaDoCacDiem_Forms.exe.config
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_ToaDoCacDiem_Forms\btn_ToaDoCacDiem_Forms\bin\Debug\btn_ToaDoCacDiem_Forms.exe
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_ToaDoCacDiem_Forms\btn_ToaDoCacDiem_Forms\bin\Debug\btn_ToaDoCacDiem_Forms.pdb
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_ToaDoCacDiem_Forms\btn_ToaDoCacDiem_Forms\obj\Debug\btn_ToaDoCacDiem_Forms.exe
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_ToaDoCacDiem_Forms\btn_ToaDoCacDiem_Forms\obj\Debug\btn_ToaDoCacDiem_Forms.pdb

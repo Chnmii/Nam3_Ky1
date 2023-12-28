@@ -1,0 +1,24 @@
+D:\Visual Studio Code\C#\DanhMucHangHoa\DanhMucHangHoa\obj\Debug\DanhMucHangHoa.csproj.AssemblyReference.cache
+D:\Visual Studio Code\C#\DanhMucHangHoa\DanhMucHangHoa\obj\Debug\DanhMucHangHoa.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Code\C#\DanhMucHangHoa\DanhMucHangHoa\obj\Debug\DanhMucHangHoa.frmHang.resources
+D:\Visual Studio Code\C#\DanhMucHangHoa\DanhMucHangHoa\obj\Debug\DanhMucHangHoa.Properties.Resources.resources
+D:\Visual Studio Code\C#\DanhMucHangHoa\DanhMucHangHoa\obj\Debug\DanhMucHangHoa.csproj.GenerateResource.cache
+D:\Visual Studio Code\C#\DanhMucHangHoa\DanhMucHangHoa\obj\Debug\DanhMucHangHoa.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\C#\DanhMucHangHoa\DanhMucHangHoa\bin\Debug\DanhMucHangHoa.exe.config
+D:\Visual Studio Code\C#\DanhMucHangHoa\DanhMucHangHoa\bin\Debug\DanhMucHangHoa.exe
+D:\Visual Studio Code\C#\DanhMucHangHoa\DanhMucHangHoa\bin\Debug\DanhMucHangHoa.pdb
+D:\Visual Studio Code\C#\DanhMucHangHoa\DanhMucHangHoa\obj\Debug\DanhMucHangHoa.exe
+D:\Visual Studio Code\C#\DanhMucHangHoa\DanhMucHangHoa\obj\Debug\DanhMucHangHoa.pdb
+D:\Visual Studio Code\C#\DanhMucHangHoa\DanhMucHangHoa\obj\Debug\DanhMucHangHoa.frmDangNhap.resources
+D:\Visual Studio Code\C#\Thực hành B5\DanhMucHangHoa\DanhMucHangHoa\bin\Debug\DanhMucHangHoa.exe.config
+D:\Visual Studio Code\C#\Thực hành B5\DanhMucHangHoa\DanhMucHangHoa\bin\Debug\DanhMucHangHoa.exe
+D:\Visual Studio Code\C#\Thực hành B5\DanhMucHangHoa\DanhMucHangHoa\bin\Debug\DanhMucHangHoa.pdb
+D:\Visual Studio Code\C#\Thực hành B5\DanhMucHangHoa\DanhMucHangHoa\obj\Debug\DanhMucHangHoa.csproj.AssemblyReference.cache
+D:\Visual Studio Code\C#\Thực hành B5\DanhMucHangHoa\DanhMucHangHoa\obj\Debug\DanhMucHangHoa.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Code\C#\Thực hành B5\DanhMucHangHoa\DanhMucHangHoa\obj\Debug\DanhMucHangHoa.frmDangNhap.resources
+D:\Visual Studio Code\C#\Thực hành B5\DanhMucHangHoa\DanhMucHangHoa\obj\Debug\DanhMucHangHoa.frmHang.resources
+D:\Visual Studio Code\C#\Thực hành B5\DanhMucHangHoa\DanhMucHangHoa\obj\Debug\DanhMucHangHoa.Properties.Resources.resources
+D:\Visual Studio Code\C#\Thực hành B5\DanhMucHangHoa\DanhMucHangHoa\obj\Debug\DanhMucHangHoa.csproj.GenerateResource.cache
+D:\Visual Studio Code\C#\Thực hành B5\DanhMucHangHoa\DanhMucHangHoa\obj\Debug\DanhMucHangHoa.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\C#\Thực hành B5\DanhMucHangHoa\DanhMucHangHoa\obj\Debug\DanhMucHangHoa.exe
+D:\Visual Studio Code\C#\Thực hành B5\DanhMucHangHoa\DanhMucHangHoa\obj\Debug\DanhMucHangHoa.pdb

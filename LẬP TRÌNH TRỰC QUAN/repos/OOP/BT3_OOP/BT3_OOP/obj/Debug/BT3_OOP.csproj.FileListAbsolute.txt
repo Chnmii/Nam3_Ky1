@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\OOP\BT3_OOP\BT3_OOP\bin\Debug\BT3_OOP.exe.config
+C:\Users\Admin\source\repos\OOP\BT3_OOP\BT3_OOP\bin\Debug\BT3_OOP.exe
+C:\Users\Admin\source\repos\OOP\BT3_OOP\BT3_OOP\bin\Debug\BT3_OOP.pdb
+C:\Users\Admin\source\repos\OOP\BT3_OOP\BT3_OOP\obj\Debug\BT3_OOP.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\OOP\BT3_OOP\BT3_OOP\obj\Debug\BT3_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\OOP\BT3_OOP\BT3_OOP\obj\Debug\BT3_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOP\BT3_OOP\BT3_OOP\obj\Debug\BT3_OOP.exe
+C:\Users\Admin\source\repos\OOP\BT3_OOP\BT3_OOP\obj\Debug\BT3_OOP.pdb

@@ -1,0 +1,75 @@
+D:\Visual Studio Code\C#\BTL\BTL\bin\Debug\BTL.exe.config
+D:\Visual Studio Code\C#\BTL\BTL\bin\Debug\BTL.exe
+D:\Visual Studio Code\C#\BTL\BTL\bin\Debug\BTL.pdb
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmBangCong.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmBoPhan.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmCheDo.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmCoBan.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmDangKy.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmDangNhap.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmDoiMatKhau.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmHoSoThuViec.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmLuong.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmMain.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmPhongBan.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmThongTinCaNhan.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmTienLuong.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmTimKiem.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.frmTroGiup.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.exe
+D:\Visual Studio Code\C#\BTL\BTL\obj\Debug\BTL.pdb
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\BTL.exe.config
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\BTL.exe
+C:\Users\Dell\Desktop\BTLC#\BTL\bin\Debug\BTL.pdb
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmBangCong.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmBoPhan.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmCheDo.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmCoBan.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmDangKy.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmDangNhap.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmDoiMatKhau.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmHoSoThuViec.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmLuong.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmMain.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmPhongBan.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmThongTinCaNhan.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmTienLuong.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmTimKiem.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.frmTroGiup.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.exe
+C:\Users\Dell\Desktop\BTLC#\BTL\obj\Debug\BTL.pdb
+D:\Visual Studio Code\C#\BTLC#\BTLC#\BTL\bin\Debug\BTL.exe.config
+D:\Visual Studio Code\C#\BTLC#\BTLC#\BTL\bin\Debug\BTL.exe
+D:\Visual Studio Code\C#\BTLC#\BTLC#\BTL\bin\Debug\BTL.pdb
+D:\Visual Studio Code\C#\BTLC#\BTLC#\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\Visual Studio Code\C#\BTLC#\BTLC#\BTL\obj\Debug\BTL.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Code\C#\BTLC#\BTLC#\BTL\obj\Debug\BTL.frmBangCong.resources
+D:\Visual Studio Code\C#\BTLC#\BTLC#\BTL\obj\Debug\BTL.frmBoPhan.resources
+D:\Visual Studio Code\C#\BTLC#\BTLC#\BTL\obj\Debug\BTL.frmCheDo.resources
+D:\Visual Studio Code\C#\BTLC#\BTLC#\BTL\obj\Debug\BTL.frmCoBan.resources
+D:\Visual Studio Code\C#\BTLC#\BTLC#\BTL\obj\Debug\BTL.frmDangKy.resources
+D:\Visual Studio Code\C#\BTLC#\BTLC#\BTL\obj\Debug\BTL.frmDangNhap.resources
+D:\Visual Studio Code\C#\BTLC#\BTLC#\BTL\obj\Debug\BTL.frmDoiMatKhau.resources
+D:\Visual Studio Code\C#\BTLC#\BTLC#\BTL\obj\Debug\BTL.frmHoSoThuViec.resources
+D:\Visual Studio Code\C#\BTLC#\BTLC#\BTL\obj\Debug\BTL.frmLuong.resources
+D:\Visual Studio Code\C#\BTLC#\BTLC#\BTL\obj\Debug\BTL.frmMain.resources
+D:\Visual Studio Code\C#\BTLC#\BTLC#\BTL\obj\Debug\BTL.frmPhongBan.resources
+D:\Visual Studio Code\C#\BTLC#\BTLC#\BTL\obj\Debug\BTL.frmThongTinCaNhan.resources
+D:\Visual Studio Code\C#\BTLC#\BTLC#\BTL\obj\Debug\BTL.frmTienLuong.resources
+D:\Visual Studio Code\C#\BTLC#\BTLC#\BTL\obj\Debug\BTL.frmTimKiem.resources
+D:\Visual Studio Code\C#\BTLC#\BTLC#\BTL\obj\Debug\BTL.frmTroGiup.resources
+D:\Visual Studio Code\C#\BTLC#\BTLC#\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\Visual Studio Code\C#\BTLC#\BTLC#\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\Visual Studio Code\C#\BTLC#\BTLC#\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\C#\BTLC#\BTLC#\BTL\obj\Debug\BTL.exe
+D:\Visual Studio Code\C#\BTLC#\BTLC#\BTL\obj\Debug\BTL.pdb

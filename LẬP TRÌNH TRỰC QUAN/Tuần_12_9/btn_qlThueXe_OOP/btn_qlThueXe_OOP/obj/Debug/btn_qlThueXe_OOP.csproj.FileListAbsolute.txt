@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_qlThueXe_OOP\btn_qlThueXe_OOP\bin\Debug\btn_qlThueXe_OOP.exe.config
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_qlThueXe_OOP\btn_qlThueXe_OOP\bin\Debug\btn_qlThueXe_OOP.exe
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_qlThueXe_OOP\btn_qlThueXe_OOP\bin\Debug\btn_qlThueXe_OOP.pdb
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_qlThueXe_OOP\btn_qlThueXe_OOP\obj\Debug\btn_qlThueXe_OOP.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_qlThueXe_OOP\btn_qlThueXe_OOP\obj\Debug\btn_qlThueXe_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_qlThueXe_OOP\btn_qlThueXe_OOP\obj\Debug\btn_qlThueXe_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_qlThueXe_OOP\btn_qlThueXe_OOP\obj\Debug\btn_qlThueXe_OOP.exe
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_qlThueXe_OOP\btn_qlThueXe_OOP\obj\Debug\btn_qlThueXe_OOP.pdb

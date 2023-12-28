@@ -1,0 +1,11 @@
+D:\Visual Studio Code\C#\Form_SinhVien\Form_SinhVien\bin\Debug\Form_SinhVien.exe.config
+D:\Visual Studio Code\C#\Form_SinhVien\Form_SinhVien\bin\Debug\Form_SinhVien.exe
+D:\Visual Studio Code\C#\Form_SinhVien\Form_SinhVien\bin\Debug\Form_SinhVien.pdb
+D:\Visual Studio Code\C#\Form_SinhVien\Form_SinhVien\obj\Debug\Form_SinhVien.csproj.AssemblyReference.cache
+D:\Visual Studio Code\C#\Form_SinhVien\Form_SinhVien\obj\Debug\Form_SinhVien.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Code\C#\Form_SinhVien\Form_SinhVien\obj\Debug\Form_SinhVien.Form1.resources
+D:\Visual Studio Code\C#\Form_SinhVien\Form_SinhVien\obj\Debug\Form_SinhVien.Properties.Resources.resources
+D:\Visual Studio Code\C#\Form_SinhVien\Form_SinhVien\obj\Debug\Form_SinhVien.csproj.GenerateResource.cache
+D:\Visual Studio Code\C#\Form_SinhVien\Form_SinhVien\obj\Debug\Form_SinhVien.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\C#\Form_SinhVien\Form_SinhVien\obj\Debug\Form_SinhVien.exe
+D:\Visual Studio Code\C#\Form_SinhVien\Form_SinhVien\obj\Debug\Form_SinhVien.pdb

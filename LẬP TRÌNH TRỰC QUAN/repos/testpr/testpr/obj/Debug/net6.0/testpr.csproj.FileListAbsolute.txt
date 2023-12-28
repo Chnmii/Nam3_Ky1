@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\testpr\testpr\bin\Debug\net6.0\testpr.exe
+C:\Users\Admin\source\repos\testpr\testpr\bin\Debug\net6.0\testpr.deps.json
+C:\Users\Admin\source\repos\testpr\testpr\bin\Debug\net6.0\testpr.runtimeconfig.json
+C:\Users\Admin\source\repos\testpr\testpr\bin\Debug\net6.0\testpr.dll
+C:\Users\Admin\source\repos\testpr\testpr\bin\Debug\net6.0\testpr.pdb
+C:\Users\Admin\source\repos\testpr\testpr\obj\Debug\net6.0\testpr.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\testpr\testpr\obj\Debug\net6.0\testpr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\testpr\testpr\obj\Debug\net6.0\testpr.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\testpr\testpr\obj\Debug\net6.0\testpr.AssemblyInfo.cs
+C:\Users\Admin\source\repos\testpr\testpr\obj\Debug\net6.0\testpr.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\testpr\testpr\obj\Debug\net6.0\testpr.dll
+C:\Users\Admin\source\repos\testpr\testpr\obj\Debug\net6.0\refint\testpr.dll
+C:\Users\Admin\source\repos\testpr\testpr\obj\Debug\net6.0\testpr.pdb
+C:\Users\Admin\source\repos\testpr\testpr\obj\Debug\net6.0\testpr.genruntimeconfig.cache
+C:\Users\Admin\source\repos\testpr\testpr\obj\Debug\net6.0\ref\testpr.dll

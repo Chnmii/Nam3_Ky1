@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\vidu20_8\vidu20_8\bin\Debug\vidu20_8.exe.config
+C:\Users\Admin\source\repos\vidu20_8\vidu20_8\bin\Debug\vidu20_8.exe
+C:\Users\Admin\source\repos\vidu20_8\vidu20_8\bin\Debug\vidu20_8.pdb
+C:\Users\Admin\source\repos\vidu20_8\vidu20_8\obj\Debug\vidu20_8.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\vidu20_8\vidu20_8\obj\Debug\vidu20_8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\vidu20_8\vidu20_8\obj\Debug\vidu20_8.Form1.resources
+C:\Users\Admin\source\repos\vidu20_8\vidu20_8\obj\Debug\vidu20_8.Properties.Resources.resources
+C:\Users\Admin\source\repos\vidu20_8\vidu20_8\obj\Debug\vidu20_8.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\vidu20_8\vidu20_8\obj\Debug\vidu20_8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\vidu20_8\vidu20_8\obj\Debug\vidu20_8.exe
+C:\Users\Admin\source\repos\vidu20_8\vidu20_8\obj\Debug\vidu20_8.pdb

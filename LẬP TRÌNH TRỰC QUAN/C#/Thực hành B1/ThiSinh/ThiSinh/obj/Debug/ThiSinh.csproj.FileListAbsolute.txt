@@ -1,0 +1,8 @@
+D:\Visual Studio Code\C#\ThiSinh\ThiSinh\obj\Debug\ThiSinh.csproj.AssemblyReference.cache
+D:\Visual Studio Code\C#\ThiSinh\ThiSinh\obj\Debug\ThiSinh.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Code\C#\ThiSinh\ThiSinh\obj\Debug\ThiSinh.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\C#\ThiSinh\ThiSinh\bin\Debug\ThiSinh.exe.config
+D:\Visual Studio Code\C#\ThiSinh\ThiSinh\bin\Debug\ThiSinh.exe
+D:\Visual Studio Code\C#\ThiSinh\ThiSinh\bin\Debug\ThiSinh.pdb
+D:\Visual Studio Code\C#\ThiSinh\ThiSinh\obj\Debug\ThiSinh.exe
+D:\Visual Studio Code\C#\ThiSinh\ThiSinh\obj\Debug\ThiSinh.pdb

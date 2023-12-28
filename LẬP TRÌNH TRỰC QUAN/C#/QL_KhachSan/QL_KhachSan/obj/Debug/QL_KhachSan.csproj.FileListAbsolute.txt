@@ -1,0 +1,33 @@
+C:\Users\Admin\source\repos\QL_KhachSan\QL_KhachSan\bin\Debug\QL_KhachSan.exe.config
+C:\Users\Admin\source\repos\QL_KhachSan\QL_KhachSan\bin\Debug\QL_KhachSan.exe
+C:\Users\Admin\source\repos\QL_KhachSan\QL_KhachSan\bin\Debug\QL_KhachSan.pdb
+C:\Users\Admin\source\repos\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.frmDangNhap.resources
+C:\Users\Admin\source\repos\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.frmBaoCaoTK.resources
+C:\Users\Admin\source\repos\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.frmKhachHang.resources
+C:\Users\Admin\source\repos\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.frmMain.resources
+C:\Users\Admin\source\repos\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.frmNhanVien.resources
+C:\Users\Admin\source\repos\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.frmQLPhong.resources
+C:\Users\Admin\source\repos\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.Properties.Resources.resources
+C:\Users\Admin\source\repos\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.exe
+C:\Users\Admin\source\repos\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.pdb
+C:\Users\Admin\source\repos\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.frmDichVu.resources
+D:\Visual Studio Code\C#\QL_KhachSan\QL_KhachSan\bin\Debug\QL_KhachSan.exe.config
+D:\Visual Studio Code\C#\QL_KhachSan\QL_KhachSan\bin\Debug\QL_KhachSan.exe
+D:\Visual Studio Code\C#\QL_KhachSan\QL_KhachSan\bin\Debug\QL_KhachSan.pdb
+D:\Visual Studio Code\C#\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.csproj.AssemblyReference.cache
+D:\Visual Studio Code\C#\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Code\C#\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.frmDangNhap.resources
+D:\Visual Studio Code\C#\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.frmMain.resources
+D:\Visual Studio Code\C#\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.Properties.Resources.resources
+D:\Visual Studio Code\C#\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.csproj.GenerateResource.cache
+D:\Visual Studio Code\C#\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\C#\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.exe
+D:\Visual Studio Code\C#\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.pdb
+D:\Visual Studio Code\C#\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.frmCacBang.resources
+D:\Visual Studio Code\C#\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.frmHam.resources
+D:\Visual Studio Code\C#\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.frmThuTuc.resources
+D:\Visual Studio Code\C#\QL_KhachSan\QL_KhachSan\obj\Debug\QL_KhachSan.frmView.resources

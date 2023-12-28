@@ -1,0 +1,11 @@
+D:\Visual Studio Code\C#\KiemTraGiuaKy\KiemTraGiuaKy\bin\Debug\KiemTraGiuaKy.exe.config
+D:\Visual Studio Code\C#\KiemTraGiuaKy\KiemTraGiuaKy\bin\Debug\KiemTraGiuaKy.exe
+D:\Visual Studio Code\C#\KiemTraGiuaKy\KiemTraGiuaKy\bin\Debug\KiemTraGiuaKy.pdb
+D:\Visual Studio Code\C#\KiemTraGiuaKy\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.csproj.AssemblyReference.cache
+D:\Visual Studio Code\C#\KiemTraGiuaKy\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Code\C#\KiemTraGiuaKy\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.Form1.resources
+D:\Visual Studio Code\C#\KiemTraGiuaKy\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.Properties.Resources.resources
+D:\Visual Studio Code\C#\KiemTraGiuaKy\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.csproj.GenerateResource.cache
+D:\Visual Studio Code\C#\KiemTraGiuaKy\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\C#\KiemTraGiuaKy\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.exe
+D:\Visual Studio Code\C#\KiemTraGiuaKy\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.pdb

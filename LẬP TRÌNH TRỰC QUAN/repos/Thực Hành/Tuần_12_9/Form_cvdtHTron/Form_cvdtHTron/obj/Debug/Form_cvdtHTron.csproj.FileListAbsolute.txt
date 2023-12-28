@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\Form_cvdtHTron\Form_cvdtHTron\bin\Debug\Form_cvdtHTron.exe.config
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\Form_cvdtHTron\Form_cvdtHTron\bin\Debug\Form_cvdtHTron.exe
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\Form_cvdtHTron\Form_cvdtHTron\bin\Debug\Form_cvdtHTron.pdb
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\Form_cvdtHTron\Form_cvdtHTron\obj\Debug\Form_cvdtHTron.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\Form_cvdtHTron\Form_cvdtHTron\obj\Debug\Form_cvdtHTron.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\Form_cvdtHTron\Form_cvdtHTron\obj\Debug\Form_cvdtHTron.Form1.resources
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\Form_cvdtHTron\Form_cvdtHTron\obj\Debug\Form_cvdtHTron.Properties.Resources.resources
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\Form_cvdtHTron\Form_cvdtHTron\obj\Debug\Form_cvdtHTron.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\Form_cvdtHTron\Form_cvdtHTron\obj\Debug\Form_cvdtHTron.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\Form_cvdtHTron\Form_cvdtHTron\obj\Debug\Form_cvdtHTron.exe
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\Form_cvdtHTron\Form_cvdtHTron\obj\Debug\Form_cvdtHTron.pdb

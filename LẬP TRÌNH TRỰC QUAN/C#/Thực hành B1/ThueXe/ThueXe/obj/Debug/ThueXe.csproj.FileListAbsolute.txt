@@ -1,0 +1,8 @@
+D:\Visual Studio Code\C#\ThueXe\ThueXe\obj\Debug\ThueXe.csproj.AssemblyReference.cache
+D:\Visual Studio Code\C#\ThueXe\ThueXe\obj\Debug\ThueXe.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Code\C#\ThueXe\ThueXe\obj\Debug\ThueXe.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\C#\ThueXe\ThueXe\bin\Debug\ThueXe.exe.config
+D:\Visual Studio Code\C#\ThueXe\ThueXe\bin\Debug\ThueXe.exe
+D:\Visual Studio Code\C#\ThueXe\ThueXe\bin\Debug\ThueXe.pdb
+D:\Visual Studio Code\C#\ThueXe\ThueXe\obj\Debug\ThueXe.exe
+D:\Visual Studio Code\C#\ThueXe\ThueXe\obj\Debug\ThueXe.pdb

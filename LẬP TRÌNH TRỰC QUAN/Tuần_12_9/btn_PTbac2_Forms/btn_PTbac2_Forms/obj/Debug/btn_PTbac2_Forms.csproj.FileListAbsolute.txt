@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_PTbac2_Forms\btn_PTbac2_Forms\bin\Debug\btn_PTbac2_Forms.exe.config
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_PTbac2_Forms\btn_PTbac2_Forms\bin\Debug\btn_PTbac2_Forms.exe
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_PTbac2_Forms\btn_PTbac2_Forms\bin\Debug\btn_PTbac2_Forms.pdb
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_PTbac2_Forms\btn_PTbac2_Forms\obj\Debug\btn_PTbac2_Forms.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_PTbac2_Forms\btn_PTbac2_Forms\obj\Debug\btn_PTbac2_Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_PTbac2_Forms\btn_PTbac2_Forms\obj\Debug\btn_PTbac2_Forms.Form1.resources
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_PTbac2_Forms\btn_PTbac2_Forms\obj\Debug\btn_PTbac2_Forms.Properties.Resources.resources
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_PTbac2_Forms\btn_PTbac2_Forms\obj\Debug\btn_PTbac2_Forms.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_PTbac2_Forms\btn_PTbac2_Forms\obj\Debug\btn_PTbac2_Forms.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_PTbac2_Forms\btn_PTbac2_Forms\obj\Debug\btn_PTbac2_Forms.exe
+C:\Users\Admin\source\repos\Thực Hành\Tuần_12_9\btn_PTbac2_Forms\btn_PTbac2_Forms\obj\Debug\btn_PTbac2_Forms.pdb

@@ -1,0 +1,32 @@
+D:\Visual Studio Code\C#\AmNhac\AmNhac\bin\Debug\AmNhac.exe.config
+D:\Visual Studio Code\C#\AmNhac\AmNhac\bin\Debug\AmNhac.exe
+D:\Visual Studio Code\C#\AmNhac\AmNhac\bin\Debug\AmNhac.pdb
+D:\Visual Studio Code\C#\AmNhac\AmNhac\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio Code\C#\AmNhac\AmNhac\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio Code\C#\AmNhac\AmNhac\obj\Debug\AmNhac.csproj.AssemblyReference.cache
+D:\Visual Studio Code\C#\AmNhac\AmNhac\obj\Debug\AmNhac.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Code\C#\AmNhac\AmNhac\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio Code\C#\AmNhac\AmNhac\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio Code\C#\AmNhac\AmNhac\obj\Debug\AmNhac.csproj.ResolveComReference.cache
+D:\Visual Studio Code\C#\AmNhac\AmNhac\obj\Debug\AmNhac.Form1.resources
+D:\Visual Studio Code\C#\AmNhac\AmNhac\obj\Debug\AmNhac.Properties.Resources.resources
+D:\Visual Studio Code\C#\AmNhac\AmNhac\obj\Debug\AmNhac.csproj.GenerateResource.cache
+D:\Visual Studio Code\C#\AmNhac\AmNhac\obj\Debug\AmNhac.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\C#\AmNhac\AmNhac\obj\Debug\AmNhac.exe
+D:\Visual Studio Code\C#\AmNhac\AmNhac\obj\Debug\AmNhac.pdb
+D:\Visual Studio Code\C#\Thực hành B3\AmNhac\AmNhac\bin\Debug\AmNhac.exe.config
+D:\Visual Studio Code\C#\Thực hành B3\AmNhac\AmNhac\bin\Debug\AmNhac.exe
+D:\Visual Studio Code\C#\Thực hành B3\AmNhac\AmNhac\bin\Debug\AmNhac.pdb
+D:\Visual Studio Code\C#\Thực hành B3\AmNhac\AmNhac\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio Code\C#\Thực hành B3\AmNhac\AmNhac\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio Code\C#\Thực hành B3\AmNhac\AmNhac\obj\Debug\AmNhac.csproj.AssemblyReference.cache
+D:\Visual Studio Code\C#\Thực hành B3\AmNhac\AmNhac\obj\Debug\AmNhac.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Code\C#\Thực hành B3\AmNhac\AmNhac\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio Code\C#\Thực hành B3\AmNhac\AmNhac\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio Code\C#\Thực hành B3\AmNhac\AmNhac\obj\Debug\AmNhac.csproj.ResolveComReference.cache
+D:\Visual Studio Code\C#\Thực hành B3\AmNhac\AmNhac\obj\Debug\AmNhac.Form1.resources
+D:\Visual Studio Code\C#\Thực hành B3\AmNhac\AmNhac\obj\Debug\AmNhac.Properties.Resources.resources
+D:\Visual Studio Code\C#\Thực hành B3\AmNhac\AmNhac\obj\Debug\AmNhac.csproj.GenerateResource.cache
+D:\Visual Studio Code\C#\Thực hành B3\AmNhac\AmNhac\obj\Debug\AmNhac.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\C#\Thực hành B3\AmNhac\AmNhac\obj\Debug\AmNhac.exe
+D:\Visual Studio Code\C#\Thực hành B3\AmNhac\AmNhac\obj\Debug\AmNhac.pdb

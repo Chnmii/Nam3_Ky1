@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\BT3\BT3\bin\Debug\BT3.exe.config
+C:\Users\Admin\source\repos\BT3\BT3\bin\Debug\BT3.exe
+C:\Users\Admin\source\repos\BT3\BT3\bin\Debug\BT3.pdb
+C:\Users\Admin\source\repos\BT3\BT3\obj\Debug\BT3.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BT3\BT3\obj\Debug\BT3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\BT3\BT3\obj\Debug\BT3.Form1.resources
+C:\Users\Admin\source\repos\BT3\BT3\obj\Debug\BT3.Properties.Resources.resources
+C:\Users\Admin\source\repos\BT3\BT3\obj\Debug\BT3.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BT3\BT3\obj\Debug\BT3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BT3\BT3\obj\Debug\BT3.exe
+C:\Users\Admin\source\repos\BT3\BT3\obj\Debug\BT3.pdb

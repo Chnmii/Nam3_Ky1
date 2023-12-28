@@ -1,0 +1,12 @@
+D:\Visual Studio Code\C#\frmCheDo\frmCheDo\bin\Debug\frmCheDo.exe.config
+D:\Visual Studio Code\C#\frmCheDo\frmCheDo\bin\Debug\frmCheDo.exe
+D:\Visual Studio Code\C#\frmCheDo\frmCheDo\bin\Debug\frmCheDo.pdb
+D:\Visual Studio Code\C#\frmCheDo\frmCheDo\obj\Debug\frmCheDo.csproj.AssemblyReference.cache
+D:\Visual Studio Code\C#\frmCheDo\frmCheDo\obj\Debug\frmCheDo.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Code\C#\frmCheDo\frmCheDo\obj\Debug\frmCheDo.Form1.resources
+D:\Visual Studio Code\C#\frmCheDo\frmCheDo\obj\Debug\frmCheDo.Properties.Resources.resources
+D:\Visual Studio Code\C#\frmCheDo\frmCheDo\obj\Debug\frmCheDo.csproj.GenerateResource.cache
+D:\Visual Studio Code\C#\frmCheDo\frmCheDo\obj\Debug\frmCheDo.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\C#\frmCheDo\frmCheDo\obj\Debug\frmCheDo.exe
+D:\Visual Studio Code\C#\frmCheDo\frmCheDo\obj\Debug\frmCheDo.pdb
+D:\Visual Studio Code\C#\frmCheDo\frmCheDo\obj\Debug\frmCheDo.frmTimKiem.resources
